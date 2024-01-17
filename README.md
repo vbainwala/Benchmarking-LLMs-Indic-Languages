@@ -1,4 +1,4 @@
-# Benchmarking-LLMs-Indic-Languages
+# Benchmarking LLMs on Indic Languages
 Performed as part of COMS6998 Course@Columbia University 
 
 # Dataset
